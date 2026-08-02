@@ -765,8 +765,8 @@ jobs:
           md5sum dist/R960_AlphaKernel_Complete_AP.tar >> dist/R960_AlphaKernel_Complete_AP.tar.md5
 
           sha256sum \
-            dist/Image-ReSukiSU-R960 \
-            dist/resukisu.config \
+            dist/Image-AlphaKernel-R960 \
+            dist/alphakernel.config \
             dist/R960_AlphaKernel_Complete_AP.tar \
             dist/R960_AlphaKernel_Complete_AP.tar.md5 \
             > dist/SHA256SUMS.txt
@@ -810,7 +810,7 @@ jobs:
           files: |
             dist/R960_AlphaKernel_Complete_AP.tar
             dist/R960_AlphaKernel_Complete_AP.tar.md5
-            dist/Image-ReSukiSU-R960
-            dist/resukisu.config
+            dist/Image-AlphaKernel-R960
+            dist/alphakernel.config
             dist/SHA256SUMS.txt
             dist/RELEASE_NOTES.txt
