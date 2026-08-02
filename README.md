@@ -1,4 +1,4 @@
-# AlphaKernel - R960 Edition
+# Alpha Kernel
 No Susfs Support I'ma not backporting that 😭
 
 Custom ReSukiSU kernel/AP build workflow and usage notes for the Samsung Galaxy Watch6 Classic **SM-R960 / wise6bl**.
