@@ -1,4 +1,15 @@
-# Alpha Kernel
+<h1 align="center">
+  <img loading="lazy" src="KernelBanner.png"/>
+</h1>
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/R960RESU)
+[![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=Telegram)](https://t.me/+A5Azk-Ta9NY5ZWIx)
+[![GitHubDownloads](https://img.shields.io/github/downloads/USERNAME/REPO/total?color=blue&label=Downloads+from+GitHub+Source&style=flat-square)](https://github.com/ItsJustJoshDev/AlphaKernel-R960/releases)
+</div>
+
+### Project Overview 
 No Susfs Support I'ma not backporting that 😭
 
 Custom ReSukiSU kernel/AP build workflow and usage notes for the Samsung Galaxy Watch6 Classic **SM-R960 / wise6bl**.
