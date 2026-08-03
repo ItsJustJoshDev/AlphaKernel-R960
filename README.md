@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/R960RESU)
 [![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=Telegram)](https://t.me/+A5Azk-Ta9NY5ZWIx)
-[![GitHubDownloads](https://img.shields.io/github/downloads/USERNAME/REPO/total?color=blue&label=Downloads+from+GitHub+Source&style=flat-square)](https://github.com/ItsJustJoshDev/AlphaKernel-R960/releases)
+[![GitHubDownloads](https://img.shields.io/github/downloads/ItsJustJoshDev/AlphaKernel-R960/total?color=blue&label=Downloads+from+GitHub+Source&style=flat-square)](https://github.com/ItsJustJoshDev/AlphaKernel-R960/releases)
 </div>
 
 ### Project Overview 
